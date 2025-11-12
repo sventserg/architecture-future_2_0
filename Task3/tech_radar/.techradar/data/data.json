@@ -1,0 +1,368 @@
+{
+  "releases": [
+    "2025-11-11"
+  ],
+  "tags": [
+    "new",
+    "old"
+  ],
+  "items": [
+    {
+      "id": "airflow",
+      "release": "2025-11-11",
+      "title": "Apache Airflow",
+      "ring": "assess",
+      "quadrant": "tools",
+      "body": "<p>Apache Airflow\nАвтоматизация ETL процессов</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "new"
+      ],
+      "position": [
+        629,
+        619
+      ]
+    },
+    {
+      "id": "camel",
+      "release": "2025-11-11",
+      "title": "Apache Camel",
+      "ring": "hold",
+      "quadrant": "tools",
+      "body": "<p>Apache Camel\nИнтеграция между сервисами</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "old"
+      ],
+      "position": [
+        702,
+        600
+      ]
+    },
+    {
+      "id": "cloud",
+      "release": "2025-11-11",
+      "title": "Cloud",
+      "ring": "trial",
+      "quadrant": "platforms-and-operations",
+      "body": "<p>Cloud\nОблачная инфраструктура</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "new"
+      ],
+      "position": [
+        219,
+        558
+      ]
+    },
+    {
+      "id": "datahub",
+      "release": "2025-11-11",
+      "title": "Data Hub",
+      "ring": "trial",
+      "quadrant": "tools",
+      "body": "<p>Data Hub\nЕдиный каталог данных</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "new"
+      ],
+      "position": [
+        602,
+        526
+      ]
+    },
+    {
+      "id": "datamesh",
+      "release": "2025-11-11",
+      "title": "Data Mesh",
+      "ring": "trial",
+      "quadrant": "methods-and-patterns",
+      "body": "<p>Data Mesh\nНезависимое развитие доменов</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "new"
+      ],
+      "position": [
+        600,
+        255
+      ]
+    },
+    {
+      "id": "ddd",
+      "release": "2025-11-11",
+      "title": "Domain Driven Design",
+      "ring": "trial",
+      "quadrant": "methods-and-patterns",
+      "body": "<p>Domain Driven Design\nРазделение на домены</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "new"
+      ],
+      "position": [
+        497,
+        161
+      ]
+    },
+    {
+      "id": "dremio",
+      "release": "2025-11-11",
+      "title": "Dremio",
+      "ring": "trial",
+      "quadrant": "tools",
+      "body": "<p>Dremio\nПортал самообслуживания</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "new"
+      ],
+      "position": [
+        568,
+        590
+      ]
+    },
+    {
+      "id": "dwh",
+      "release": "2025-11-11",
+      "title": "DWH",
+      "ring": "hold",
+      "quadrant": "methods-and-patterns",
+      "body": "<p>DWH\nСтруктурированное хранилище данных</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "old"
+      ],
+      "position": [
+        763,
+        274
+      ]
+    },
+    {
+      "id": "golang",
+      "release": "2025-11-11",
+      "title": "Golang",
+      "ring": "adopt",
+      "quadrant": "languages-and-frameworks",
+      "body": "<p>Golang\nРазработка сервисов</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "old"
+      ],
+      "position": [
+        372,
+        323
+      ]
+    },
+    {
+      "id": "iceberg",
+      "release": "2025-11-11",
+      "title": "Iceberg",
+      "ring": "trial",
+      "quadrant": "platforms-and-operations",
+      "body": "<p>Apache Iceberg\nТрансформация хранилища в DataLakehouse, управление метаданными</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "new"
+      ],
+      "position": [
+        282,
+        609
+      ]
+    },
+    {
+      "id": "Java",
+      "release": "2025-11-11",
+      "title": "Java",
+      "ring": "adopt",
+      "quadrant": "languages-and-frameworks",
+      "body": "<p>Java\nРазработка сервисов</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "old"
+      ],
+      "position": [
+        282,
+        272
+      ]
+    },
+    {
+      "id": "js",
+      "release": "2025-11-11",
+      "title": "JavaScript",
+      "ring": "trial",
+      "quadrant": "languages-and-frameworks",
+      "body": "<p>JavaScript\nРазработка фронтэнд</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "new"
+      ],
+      "position": [
+        157,
+        337
+      ]
+    },
+    {
+      "id": "kotlin",
+      "release": "2025-11-11",
+      "title": "Kotlin",
+      "ring": "assess",
+      "quadrant": "languages-and-frameworks",
+      "body": "<p>Kotlin\nРазработка сервисов</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "new"
+      ],
+      "position": [
+        81,
+        342
+      ]
+    },
+    {
+      "id": "kubernetes",
+      "release": "2025-11-11",
+      "title": "Kubernetes",
+      "ring": "trial",
+      "quadrant": "platforms-and-operations",
+      "body": "<p>Kubernetes\nОркестрация системы</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "new"
+      ],
+      "position": [
+        188,
+        517
+      ]
+    },
+    {
+      "id": "minio",
+      "release": "2025-11-11",
+      "title": "MinIO",
+      "ring": "trial",
+      "quadrant": "platforms-and-operations",
+      "body": "<p>MinIO\nЦентрализованное хранилище данных</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "new"
+      ],
+      "position": [
+        349,
+        635
+      ]
+    },
+    {
+      "id": "nessie",
+      "release": "2025-11-11",
+      "title": "Nessie",
+      "ring": "trial",
+      "quadrant": "platforms-and-operations",
+      "body": "<p>Nessie\nВерсионирование данных</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "new"
+      ],
+      "position": [
+        233,
+        581
+      ]
+    },
+    {
+      "id": "powerbuilder",
+      "release": "2025-11-11",
+      "title": "PowerBuilder",
+      "ring": "hold",
+      "quadrant": "languages-and-frameworks",
+      "body": "<p>PowerBuilder\nРазработка приложений</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "old"
+      ],
+      "position": [
+        86,
+        193
+      ]
+    },
+    {
+      "id": "python",
+      "release": "2025-11-11",
+      "title": "Python",
+      "ring": "adopt",
+      "quadrant": "languages-and-frameworks",
+      "body": "<p>Python\nИИ-сервисы, ETL, аналитика</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "old"
+      ],
+      "position": [
+        332,
+        357
+      ]
+    },
+    {
+      "id": "react",
+      "release": "2025-11-11",
+      "title": "React",
+      "ring": "trial",
+      "quadrant": "languages-and-frameworks",
+      "body": "<p>React\nРазработка фронтэнда</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "new"
+      ],
+      "position": [
+        174,
+        279
+      ]
+    },
+    {
+      "id": "sql",
+      "release": "2025-11-11",
+      "title": "SQL",
+      "ring": "adopt",
+      "quadrant": "languages-and-frameworks",
+      "body": "<p>SQL\nАналитика, отчеты, витрины</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "old"
+      ],
+      "position": [
+        239,
+        348
+      ]
+    },
+    {
+      "id": "sql-server",
+      "release": "2025-11-11",
+      "title": "SQL Server 2008",
+      "ring": "hold",
+      "quadrant": "platforms-and-operations",
+      "body": "<p>SQL Server 2008\nУстаревшая платформа</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "old"
+      ],
+      "position": [
+        81,
+        608
+      ]
+    }
+  ]
+}

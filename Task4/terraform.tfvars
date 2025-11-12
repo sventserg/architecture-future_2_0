@@ -1,0 +1,7 @@
+yc_service_account_key_file = "..."
+yc_cloud_id   = "b1g..."
+yc_folder_id  = "b1g..."
+vm_service_account_id = "aje..."
+yc_zone       = "ru-central1-a"
+project_prefix = "future-2.0"
+ssh_public_key_path = "..."
